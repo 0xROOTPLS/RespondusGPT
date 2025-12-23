@@ -2,7 +2,9 @@
 Screen capture + ChatGPT powered overylay while Respondus Lockdown Browser is active. 
 
 ## Status
-Undetected as of 12/22/2025
+Undetected as of 12/22/2025  
+https://www.virustotal.com/gui/file/f92b6c59bcc54ddccc98147ada21b51618b16d6983cf9ffa4e615850a3170629  
+FILE HASH: f92b6c59bcc54ddccc98147ada21b51618b16d6983cf9ffa4e615850a3170629
 
 ## Usage
 
