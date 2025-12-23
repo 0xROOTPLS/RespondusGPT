@@ -25,3 +25,6 @@ RespondusGPT.exe
 - **Overlay**: DirectComposition renders at DWM compositor level, above normal z-order
 - **Stealth**: Randomized window class names, decoy titles, no taskbar entry
 
+## Screenshots
+
+![Alt text](https://i.ibb.co/NgtPs4Dh/Respondus-GPT.png)
